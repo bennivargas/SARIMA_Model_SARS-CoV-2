@@ -17,6 +17,9 @@ These events have a profound impact on American lives; thus,
 decisions of this magnitude requires an objective data-driven answer based on facts and data, and not based on subjective opinion. 
 Furthermore, the availability of a dataset of daily cases in the USA allows such a data-driven answer to be applied. 
 
+Since it is observed there are dates and an increasing trend as well as seasonality, the seasonal autoregressive integrated moving average model (SARIMA)
+time series analysis is the most befitting. 
+
 Bibliography
 
 [1]	“About COVID-19 | CDC.” https://www.cdc.gov/coronavirus/2019-ncov/cdcresponse/about-COVID-19.html (accessed Apr. 27, 2021).
